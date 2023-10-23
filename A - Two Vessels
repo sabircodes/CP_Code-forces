@@ -1,0 +1,21 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+     int t;
+     cin>>t;
+     while(t--){
+        double a,b,c;
+        cin>>a>>b>>c;
+        double mid = (a+b)/2;
+        double val = abs(mid-a);
+        cout<<ceil(val/c)<<endl;
+
+        
+
+        
+     }
+     return 0;
+}
