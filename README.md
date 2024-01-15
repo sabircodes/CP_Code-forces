@@ -1,3 +1,3 @@
 # CP_Code-forces
-all the Codeforces questions will be here,
-this repo will help me keep all my codeforces solution in one place ✅
+I'm keeping track of all my solved Codeforces questions to measure my progress over time. It's a great way to stay motivated and improve your programming skills. Start tracking your progress today!
+
